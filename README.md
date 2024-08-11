@@ -287,9 +287,7 @@ main(1, 0.5, 1);
 The code provides a comprehensive workflow to interact with decentralized finance protocols:
 
 - **Approval**: For allowing tokens to be spent by another contract.
-- **
-
-Swap**: Using a router contract to swap tokens.
+- **Swap**: Using a router contract to swap tokens.
 - **Staking**: Approving and staking LP tokens in a yield farming contract.
 
 The code manages the interaction between various contracts and protocols, including token approval, swapping through a router, and staking LP tokens, making it a useful tool for automating DeFi operations.
